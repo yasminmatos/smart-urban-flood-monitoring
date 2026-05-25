@@ -32,7 +32,7 @@ The C++ firmware implements advanced processing techniques to ensure data integr
 ## 🚀 How to Run the Project
 
 1. Copy the full source code from `sketch.ino`.
-2. Open the circuit design on [Wokwi](https://wokwi.com).
+2. Open the circuit design on [Wokwi](https://wokwi.com/projects/465034181390321665).
 3. Install the **PubSubClient** library via the Wokwi Library Manager.
 4. Click **Play** to start the simulation.
 5. Click on the HC-SR04 sensor component to interactively simulate water level changes.
