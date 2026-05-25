@@ -90,7 +90,6 @@ void loop() {
   }
   mqttClient.loop();
 
-  // --- Algoritmo Time-of-Flight (ToF) do HC-SR04 ---
   digitalWrite(PIN_TRIG, LOW);
   delayMicroseconds(2);
   digitalWrite(PIN_TRIG, HIGH);
